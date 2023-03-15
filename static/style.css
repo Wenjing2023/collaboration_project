@@ -1,0 +1,30 @@
+body {
+
+    font-family: sans-serif;
+
+}
+
+h1 {
+    background-color: rgb(115, 166, 12);
+    padding: 24px;
+    color: white;
+    border-radius: 20px;
+}
+
+ul li {
+    font-size: 1.5rem;
+    color: white;
+
+}
+
+a {
+    text-decoration: none;
+    color: rgb(225, 173, 1);
+
+}
+
+.whole-list {
+    background-color: rgb(62, 54, 63);
+    padding: 20px;
+    border-radius: 20px;
+}
